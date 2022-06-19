@@ -1,0 +1,109 @@
+{
+    "2": {
+        "Category Distribution": {
+            "Communication": 48,
+            "Music & Audio": 34,
+            "Personalization": 16,
+            "Tools": 85,
+            "Strategy": 4,
+            "Productivity": 42,
+            "Lifestyle": 10,
+            "Social": 28,
+            "Photography": 27,
+            "Shopping": 26,
+            "Travel & Local": 13,
+            "Weather": 3,
+            "Adventure": 3,
+            "Video Players & Editors": 23,
+            "Board": 1,
+            "Food & Drink": 5,
+            "Maps & Navigation": 10,
+            "Finance": 9,
+            "Business": 14,
+            "Sports": 3,
+            "Action": 8,
+            "Casino": 2,
+            "Health & Fitness": 6,
+            "News & Magazines": 5,
+            "Entertainment": 22,
+            "House & Home": 1,
+            "Card": 2,
+            "Education": 4,
+            "Books & Reference": 5,
+            "Dating": 1,
+            "Casual": 5,
+            "Auto & Vehicles": 1,
+            "Trivia": 1,
+            "Comics": 1,
+            "Arcade": 1,
+            "Puzzle": 4,
+            "Role Playing": 1,
+            "Simulation": 1,
+            "Racing": 1,
+            "Libraries & Demo": 1
+        },
+        "Ad Supportedness": [
+            221,
+            256
+        ]
+    },
+    "0": {
+        "Category Distribution": {
+            "Photography": 24,
+            "Casual": 44,
+            "Arcade": 72,
+            "Adventure": 11,
+            "Shopping": 2,
+            "Puzzle": 29,
+            "Music & Audio": 12,
+            "Board": 10,
+            "Strategy": 10,
+            "Entertainment": 24,
+            "Sports": 25,
+            "Music": 6,
+            "Books & Reference": 1,
+            "Tools": 42,
+            "Racing": 40,
+            "Action": 64,
+            "Finance": 2,
+            "Education": 3,
+            "Video Players & Editors": 11,
+            "Role Playing": 7,
+            "Casino": 1,
+            "News & Magazines": 3,
+            "Word": 3,
+            "Simulation": 25,
+            "Communication": 6,
+            "Health & Fitness": 4,
+            "Productivity": 7,
+            "Educational": 6,
+            "Travel & Local": 1,
+            "Art & Design": 3,
+            "Weather": 3,
+            "Card": 3,
+            "Social": 2,
+            "Personalization": 4,
+            "Trivia": 2,
+            "Lifestyle": 1,
+            "Business": 1
+        },
+        "Ad Supportedness": [
+            83,
+            431
+        ]
+    },
+    "1": {
+        "Category Distribution": {
+            "Music & Audio": 1,
+            "Tools": 3,
+            "Travel & Local": 1,
+            "Adventure": 1,
+            "Productivity": 2,
+            "Personalization": 1
+        },
+        "Ad Supportedness": [
+            7,
+            2
+        ]
+    }
+}
